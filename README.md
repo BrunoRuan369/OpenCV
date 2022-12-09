@@ -1,3 +1,3 @@
 ﻿# OpenCV
 
-Trabalahdno Visão Computacional através da biblioteca do OpenCv
+Trabalhando Visão Computacional através da biblioteca do OpenCv
